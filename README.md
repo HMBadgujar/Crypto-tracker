@@ -1,4 +1,4 @@
-# CoinPulse - Crypto Tracker
+# CryptoPlace - Crypto Tracker
 
 Your all-in-one solution for tracking the dynamic world of cryptocurrencies. Monitor real-time prices, view historical data, and stay ahead of market trends.
 
